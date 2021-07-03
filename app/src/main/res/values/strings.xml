@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">calc_zakaria_samy</string>
+    <string name="cal_screen">cal_screen</string>
+    <string name="buttonCL">cal_screen</string>
+    <string name="buttonx">x</string>
+    <string name="button7">button7</string>
+    <string name="button8">button8</string>
+    <string name="button9">button9</string>
+    <string name="buttonadd">buttonAdd</string>
+    <string name="buttonsub">buttonSub</string>
+    <string name="buttondiv">buttonDiv</string>
+    <string name="buttonDot">buttonDot</string>
+    <string name="buttonEqual">buttonEqual</string>
+    <string name="buttonmul">buttonMul</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+    <string name="button5">button5</string>
+    <string name="button6">button6</string>
+
+</resources>
